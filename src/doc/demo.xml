@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="Surface Plotter Applet" /> 
+  <Content type="url" href="http://surfaceplotter.googlecode.com/svn/trunk/surfaceplotter/src/doc/demo.html"/>
+</Module>
